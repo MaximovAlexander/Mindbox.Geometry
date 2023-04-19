@@ -1,0 +1,12 @@
+C:\Users\vizua\RiderProjects\Mindbox.Geometry\Mindbox.Geometry\bin\Debug\net7.0\Mindbox.Geometry.deps.json
+C:\Users\vizua\RiderProjects\Mindbox.Geometry\Mindbox.Geometry\bin\Debug\net7.0\Mindbox.Geometry.dll
+C:\Users\vizua\RiderProjects\Mindbox.Geometry\Mindbox.Geometry\bin\Debug\net7.0\Mindbox.Geometry.pdb
+C:\Users\vizua\RiderProjects\Mindbox.Geometry\Mindbox.Geometry\obj\Debug\net7.0\Mindbox.Geometry.csproj.AssemblyReference.cache
+C:\Users\vizua\RiderProjects\Mindbox.Geometry\Mindbox.Geometry\obj\Debug\net7.0\Mindbox.Geometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vizua\RiderProjects\Mindbox.Geometry\Mindbox.Geometry\obj\Debug\net7.0\Mindbox.Geometry.AssemblyInfoInputs.cache
+C:\Users\vizua\RiderProjects\Mindbox.Geometry\Mindbox.Geometry\obj\Debug\net7.0\Mindbox.Geometry.AssemblyInfo.cs
+C:\Users\vizua\RiderProjects\Mindbox.Geometry\Mindbox.Geometry\obj\Debug\net7.0\Mindbox.Geometry.csproj.CoreCompileInputs.cache
+C:\Users\vizua\RiderProjects\Mindbox.Geometry\Mindbox.Geometry\obj\Debug\net7.0\Mindbox.Geometry.dll
+C:\Users\vizua\RiderProjects\Mindbox.Geometry\Mindbox.Geometry\obj\Debug\net7.0\refint\Mindbox.Geometry.dll
+C:\Users\vizua\RiderProjects\Mindbox.Geometry\Mindbox.Geometry\obj\Debug\net7.0\Mindbox.Geometry.pdb
+C:\Users\vizua\RiderProjects\Mindbox.Geometry\Mindbox.Geometry\obj\Debug\net7.0\ref\Mindbox.Geometry.dll
